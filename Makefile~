@@ -12,10 +12,6 @@ bound: 	boundBlock.cpp
 tessCV:	 tesscv.cpp
 	g++ -g $^ -o $@ -Wall -llept -ltesseract `pkg-config opencv --cflags --libs`
 
-tessCV2:tesscv2.cpp
-	g++ -g $^ -o $@ -Wall -llept -ltesseract `pkg-config opencv --cflags --libs`
-
-
 skew: skew.cpp
 	g++ -g $^ -o $@ -Wall -llept -ltesseract `pkg-config opencv --cflags --libs`
 

@@ -1,0 +1,9 @@
+with pre-processing :- 
+ उमृ तो बीत गयो
+ अब क्यर्रे है?
+
+without pre-processing :- 
+ लि7बो७७रे
+ . । उम्र तो होत क्यों है
+
+ 

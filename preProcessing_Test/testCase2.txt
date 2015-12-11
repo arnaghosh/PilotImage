@@ -1,0 +1,9 @@
+With pre-processing :-
+उस तो बीत गयी
+  अब क्य? बाकी है?
+
+Without pre-processing :-
+ उस ती- 'बीत गयी,
+. अब हत्या बाकी है?
+
+ 
